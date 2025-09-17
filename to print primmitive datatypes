@@ -1,0 +1,12 @@
+a=10
+b=2.12
+c=True
+print("integer is:",a)
+print("float is:",b)
+print("boolean is:",c)
+my_int=10
+my_float=2.12
+my_bool=False
+print("integer is:",my_int)
+print("float is:",my_float)
+print("boolean is:",my_bool)
