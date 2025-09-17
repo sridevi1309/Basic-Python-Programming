@@ -1,0 +1,8 @@
+a=(10,20,30)
+b=[10,20,30,10]
+c={10,10,20,30}
+d={"1":10,"2":20,"3":30}
+print("list is:",a)
+print("tuple is:",b)
+print("set is:",c)
+print("dict is:",d)
